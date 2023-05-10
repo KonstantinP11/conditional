@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 // задача 1
-        int age = 17;
+        int age = 50;
         if (age >= 18) {
             System.out.printf("Если возраст человека равен " + age + ", то он совершеннолетний");
             } else {
